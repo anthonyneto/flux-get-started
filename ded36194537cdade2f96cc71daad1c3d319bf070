@@ -1,0 +1,1 @@
+{"jobID":"deedc7f1-c03c-cafd-1bc6-1b1c907e4a0b","spec":{"type":"policy","cause":{"Message":"1.4.4 does not work for us","User":"Anthony Neto \u003canthony.neto@gmail.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"locked":"true","locked_msg":"1.4.4 does not work for us","locked_user":"Anthony Neto \u003canthony.neto@gmail.com\u003e"},"remove":{}}}},"result":null}
