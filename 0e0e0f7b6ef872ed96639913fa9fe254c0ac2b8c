@@ -1,0 +1,1 @@
+{"jobID":"6365872b-fdd9-ef2d-fb56-cdf76fcad41d","spec":{"type":"policy","cause":{"Message":"fixed 1.4.4","User":"Anthony Neto \u003canthony.neto@gmail.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{},"remove":{"locked":"true","locked_msg":"true","locked_user":"true"}}}},"result":null}
