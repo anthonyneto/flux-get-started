@@ -1,0 +1,1 @@
+{"jobID":"62a5dbd9-f581-62e7-eaf4-d6fb4ce6af24","spec":{"type":"policy","cause":{"Message":"","User":"Anthony Neto \u003canthony.neto@gmail.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag_all":"glob:2.1.*"},"remove":{}}}},"result":null}
